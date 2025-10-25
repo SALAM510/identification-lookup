@@ -38,17 +38,8 @@ body {
   background-color: rgb(55, 160, 55);
 }
 
-#result {
-  margin-top: 20px;
-}
-
 #info {
   font-weight: bold;
-  margin-bottom: 10px;
-}
-
-label {
-  display: block;
   margin-bottom: 10px;
 }
 
